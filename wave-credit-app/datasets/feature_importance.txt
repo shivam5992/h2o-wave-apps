@@ -1,0 +1,12 @@
+Relative Importance,Standard Deviation of Relative Importance,Original Feature
+1,0.01167085,NumberOfTimes90DaysLate
+0.7675071,0.1920913,RevolvingUtilizationOfUnsecuredLines
+0.4039934,0.005040779,NumberOfTime30-59DaysPastDueNotWorse
+0.3885569,0.012759,NumberOfTime60-89DaysPastDueNotWorse
+0.07728201,0.01528111,MonthlyIncome
+0.06907932,0,DebtRatio
+0.06377827,0.006403558,NumberOfOpenCreditLinesAndLoans
+0.06245404,0.005288327,age
+0.03209559,0,NumberRealEstateLoansOrLines
+0,0,
+0,0,NumberOfDependents
