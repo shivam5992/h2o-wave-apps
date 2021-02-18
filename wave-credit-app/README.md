@@ -24,12 +24,12 @@ $ pip3 install -r requirements.txt
 ### 3. Run the App
 
 ```bash
-wave run src.app
+wave run app
 ```
 
 Note! If you did not activate your virtual environment this will be:
 ```bash
-./venv/bin/wave run src.app
+./venv/bin/wave run app
 ```
 
 ### 4. View the App
